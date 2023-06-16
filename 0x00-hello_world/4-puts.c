@@ -1,10 +1,12 @@
 #Include < stdio .h
-/* *
- * main - Building a multilingual puzzle is like programming
- * Return: 0 (Success)
+/**
+ * main - A program that prints a line with puts function
+ * Return 0 (Success)
  */
-int main(void)
+Int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
+
+
