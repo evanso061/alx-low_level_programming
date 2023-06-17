@@ -1,9 +1,9 @@
-#Include < stdio .h
+#include <stdio.h>
 /**
- * main - A program that prints a line with puts function
- * Return 0 (Success)
+ *  main - My main entry point
+ *  Return 0 (Success)
  */
-Int main(void)
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
