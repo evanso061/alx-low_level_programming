@@ -1,10 +1,10 @@
 #include "lists.h"
 
 /**
- * print_listint - prints all the elements of a list.
+ * print_listint - printing all elements of a list.
  * @h: head of a list
  *
- * Return: numbers of nodes.
+ * Return: numbers nodes.
  */
 size_t print_listint(const listint_t *h)
 {
